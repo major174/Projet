@@ -1,0 +1,13 @@
+fastai
+tensorflow 
+pandas
+Pillow
+streamlit
+numpy
+clip
+matplotlib
+sentence-transformers
+torch
+torchvision
+pretrainedmodels
+tqdm
